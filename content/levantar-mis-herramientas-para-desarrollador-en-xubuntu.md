@@ -1,6 +1,6 @@
 ---
 title: Levantar Mis Herramientas Para Desarrollador en Xubuntu
-image:
+image: /images/writing.jpg
 imageMeta:
   attribution:
   attributionLink:
