@@ -56,4 +56,13 @@ Existen dos versiones:
 + Enterprise Edition: mantenidos por el equipo de Ionic.
 
 ## UI Components
-Las aplicaciones de ionic en alto nivel se construyen con componentes.
+Las aplicaciones de ionic en alto nivel se construyen con componentes. La lista de componentes es algo larga pero estos son algunos:
++ Action sheet
++ Icons
++ Cards
++ Floating action point
++ Input
++ Modal
++ Navigation
+
+Muchos otro más.
