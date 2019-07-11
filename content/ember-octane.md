@@ -39,11 +39,18 @@ Recomiendo revisar la documentación desde github, ahí es más sencillo estar a
 
 ### Optional features
 
-Algo nuevo en ember, en cualquier edición, es [optional-features](https://guides.emberjs.com/release/configuring-ember/optional-features/).
-Lo más destacado es que `jquery` ya no está incluido en ember por defecto, es ahora algo opcional:
+Las versiones más recientes incluyen [optional-features](https://guides.emberjs.com/release/configuring-ember/optional-features/). Nos permite habilitar o deshabilitar ciertas funcionalidades de ember.
+Por ejemplo: `jquery` ya no está incluido en ember por defecto. Para incluirlo:
 ```javascript
+// config/optional-features.json
 {
   "jquery-integration": true
 }
 ```
-Ejecutar `ember feature:list` no mostrara todas las opciones.
+Ejecutar `ember feature:list` muestra todas las opciones.
+
+#### jquery
+Algunas addons dependen de `jquery` por ejemplo `ember-ajax`. Por lo pronto parece que la meta es eliminar `jquery` como requerimiento. 
++ [Drop jquery requeriment](https://github.com/ember-learn/ember-simple-leaflet-maps/issues/2)
+
+La alternativa de `ember-ajax` es [ember-fetch](https://github.com/ember-cli/ember-fetch).
