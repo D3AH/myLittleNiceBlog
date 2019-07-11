@@ -18,6 +18,8 @@ Qué es Octane, ember 4.0?
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hw07r_fwSSg?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
+[Descripción rápida de que son "editions" y octane.](https://slides.com/michalstaskiewicz-1/ember-octane#/)
+
 Aquí una lista de blogs de introducción a octane:
 + [Native classes](https://www.pzuraq.com/coming-soon-in-ember-octane-part-1-native-classes/)
 + [Angle Brackets and named arguments](https://www.pzuraq.com/coming-soon-in-ember-octane-part-2-angle-brackets-and-named-arguments/)
