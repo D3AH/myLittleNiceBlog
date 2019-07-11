@@ -1,6 +1,6 @@
 ---
 title: Ember Octane
-image: /images/ember-octane_croped.png
+image: /images/ember-octane.png
 imageMeta:
   attribution:
   attributionLink:
@@ -39,12 +39,32 @@ Por lo tanto aun **falta terminar** algunas cosas y entre ellas está la **docum
 
 [Aquí](https://github.com/ember-learn/guides-source/blob/octane/guides/release/upgrading/editions.md) una guía de las nuevas funcionalidades.
 
-Recomiendo revisar la documentación desde github, ahí es más sencillo estar atento si la sección ya fue actualizada o si siguen en proceso, etc.
+### Blueprint
+Para crear una aplicación de ember octane debemos utilizar [ember-octane-blueprint](https://github.com/ember-cli/ember-octane-blueprint).
+
+Proyectos nuevos
+```bash
+# Apps
+ember new my-app -b @ember/octane-app-blueprint
+
+# Addons
+ember addon my-addon -b @ember/octane-addon-blueprint
+```
+
+Proyectos existente
+```bash
+# Apps
+ember init -b @ember/octane-app-blueprint
+
+# Addons
+ember init -b @ember/octane-addon-blueprint
+```
 
 ### Optional features
 
 Las versiones más recientes incluyen [optional-features](https://guides.emberjs.com/release/configuring-ember/optional-features/). Nos permite habilitar o deshabilitar ciertas funcionalidades de ember.
-Por ejemplo: `jquery` ya no está incluido en ember por defecto. Para incluirlo:
+
+Por ejemplo `jquery` ya no está incluido en ember por defecto. Para incluirlo:
 ```javascript
 // config/optional-features.json
 {
