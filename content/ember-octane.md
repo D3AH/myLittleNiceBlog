@@ -39,7 +39,7 @@ Por lo tanto aun **falta terminar** algunas cosas y entre ellas está la **docum
 
 [Aquí](https://github.com/ember-learn/guides-source/blob/octane/guides/release/upgrading/editions.md) una guía de las nuevas funcionalidades.
 
-Recomiendo revisar la documentación desde github, ahí es más sencillo estar atento si la sección ya fue actualizado o si siguen en proceso, etc.
+Recomiendo revisar la documentación desde github, ahí es más sencillo estar atento si la sección ya fue actualizada o si siguen en proceso, etc.
 
 ### Optional features
 
