@@ -1,6 +1,6 @@
 ---
 title: Ember Octane
-image:
+image: /images/ember-octane_croped.png
 imageMeta:
   attribution:
   attributionLink:
