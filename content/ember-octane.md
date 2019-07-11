@@ -39,6 +39,14 @@ Por lo tanto aun **falta terminar** algunas cosas y entre ellas está la **docum
 
 [Aquí](https://github.com/ember-learn/guides-source/blob/octane/guides/release/upgrading/editions.md) una guía de las nuevas funcionalidades.
 
+### Actualizar ember
+
+#### Tabla de importaciones
+Para las actualizaciones de ember 2.X [javascript-module-api](https://github.com/emberjs/rfcs/blob/master/text/0176-javascript-module-api.md#addendum-1---table-of-module-names-and-exports-by-global).
+
+#### "Smooth" upgrade
+[ember-cli-update](https://cli.emberjs.com/release/basic-use/upgrading/#howtodoanupgrade)
+
 ### Blueprint
 Para crear una aplicación de ember octane debemos utilizar [ember-octane-blueprint](https://github.com/ember-cli/ember-octane-blueprint).
 
