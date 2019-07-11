@@ -31,11 +31,13 @@ También hay otros interesantes sobre octane y parece que seguira publicando má
 
 ### Documentación
 
-A todo esto octane aun no se ha publicado oficialmente, es decir que es una `canary` version.
-Esto significa que aun **falta terminar** algunas cosas y entre ellas está la **documentación**.
+Octane aun no se ha publicado oficialmente, aun es `canary` version.
+Por lo tanto aun **falta terminar** algunas cosas y entre ellas está la **documentación**.
 
 + [Documentación en github](https://github.com/ember-learn/guides-source/tree/octane) (Recomendado)
 + [Documentación web](https://deploy-preview-455--ember-guides.netlify.com/release/)
+
+[Aquí](https://github.com/ember-learn/guides-source/blob/octane/guides/release/upgrading/editions.md) una guía de las nuevas funcionalidades.
 
 Recomiendo revisar la documentación desde github, ahí es más sencillo estar atento si la sección ya fue actualizado o si siguen en proceso, etc.
 
