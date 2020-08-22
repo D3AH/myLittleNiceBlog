@@ -22,7 +22,7 @@
 [context.production]
   publish = "dist/"
   # command = "make publish"
-  environment = { NODE_VERSION = "12.17.10" }
+  environment = { NODE_VERSION = "12.17.0" }
 
 # Deploy Preview context: all deploys generated from a pull/merge request will
 # inherit these settings.
